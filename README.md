@@ -1,16 +1,17 @@
-# File Organizer GUI
+# File Organizer
 
 This project is a file organizer application that helps users categorize and organize their files into designated folders based on file types. It features a graphical user interface (GUI) for ease of use.
 
 ## Project Structure
 
 ```
-file-organizer-gui
+File Organizer
 ├── src
 │   ├── main.py        # Core functionality of the file organizer
 │   └── gui.py         # Graphical user interface implementation
-├── requirements.txt    # List of dependencies
-└── README.md           # Project documentation
+├── requirements.txt   # List of dependencies
+├── LICENSE            # License Information                   
+└── README.md          # Project documentation
 ```
 
 ## Features
