@@ -2,6 +2,9 @@
 
 This project is a file organizer application that helps users categorize and organize their files into designated folders based on file types. It features a graphical user interface (GUI) for ease of use.
 
+![Usage GIF](Organizer.gif)
+
+
 ## Project Structure
 
 ```
