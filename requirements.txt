@@ -1,0 +1,6 @@
+Tkinter is a built-in library in Python for creating GUIs, so it doesn't need to be listed in the requirements. However, if you plan to use additional libraries, you can include them. Here's the contents for the requirements.txt file:
+
+Flask
+Pillow
+shutil
+os
